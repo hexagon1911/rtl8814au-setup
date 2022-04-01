@@ -1,2 +1,6 @@
 # rtl8814au_setup
-bash script for rtl8814au chipset based wifi card/dongle.
+
+script for rtl8814au chipset based wifi card/dongle.
+
+sets wlan1 30 dbm and monitor mode
+
